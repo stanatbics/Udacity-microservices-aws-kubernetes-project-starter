@@ -1,0 +1,5 @@
+- EKS cluster has been created
+- Postgress DB service has been configured
+- containerizing the application
+- Codebuild continuous integration by creating the ECR repo to store the images aand to automate the deployment process
+- Cloudwatch logging
